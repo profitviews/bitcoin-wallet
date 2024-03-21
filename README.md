@@ -15,3 +15,7 @@ pip install -r requirements.txt
 ```
 
 Any problems, email help@profitview.net or go to [ProfitView](https://profitview.net) and chat to us.
+
+For more cool stuff go to our [home](https://github.com/profitviews).
+
+<a href="https://profitview.net" target="_blank"><img src="https://github.com/profitviews/profitviews/raw/main/assets/images/logo.png" style="width:500px"/></a>
