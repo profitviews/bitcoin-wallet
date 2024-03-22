@@ -1,4 +1,4 @@
-<img src="https://cloud.profitview.net/assets/images/blog/demystifying-bitcoin-wallets-digital-interface.webp" style="width:800px"/>
+<img src="https://github.com/profitviews/bitcoin-wallet/raw/main/assets/images/demystifying-bitcoin-wallets-research-setup.webp" style="width:800px"/>
 
 # Bitcoin Wallets
 
