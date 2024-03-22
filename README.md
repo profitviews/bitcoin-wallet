@@ -1,4 +1,6 @@
-# Bitcoin Wallet
+<img src="https://cloud.profitview.net/assets/images/blog/demystifying-bitcoin-wallets-digital-interface.webp" style="width:800px"/>
+
+# Bitcoin Wallets
 
 How to create a Bitcoin wallet.
 
