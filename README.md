@@ -10,11 +10,20 @@ To understand this better, read and run [bitcoin-wallet.ipynb](/bitcoin-wallet.i
 
 It was written in Python 3.12.2 (but should be fine in most Python 3 versions).
 
-Install dependencies with
+**To run the code**:
 
+1. Install `git` 
+2. Install `jupyter` or `jupyter-lab` - or use [Visual Studio Code](https://code.visualstudio.com/) 
+3. Download it with
+```shell
+git clone git@github.com:profitviews/bitcoin-wallet.git
+```
+4. `cd bitcoin-wallet`
+5. Install dependencies with
 ```shell
 pip install -r requirements.txt
 ```
+6. Launch `bitcoin-wallet.ipynb` as a Jupyter notebook using whichever means you chose above.
 
 Any problems, email help@profitview.net or go to [ProfitView](https://profitview.net) and chat to us.
 
